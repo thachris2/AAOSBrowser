@@ -15,15 +15,15 @@
  */
 
 object Build {
-    const val compile_sdk_version = 30
-    const val build_tools_version = "30.0.3"
-    const val min_sdk_version = 23
-    const val target_sdk_version = 30
+    const val compile_sdk_version = 33
+    const val build_tools_version = "33.0.1"
+    const val min_sdk_version = 28
+    const val target_sdk_version = 33
 }
 
 object AppVersions {
-    const val version_name = "6.0.2"
-    const val version_code = 410021
+    const val version_name = "1.0.0"
+    const val version_code = 330100 //Target SDK(33) - 0 - version(100)
 }
 
 object Versions {
